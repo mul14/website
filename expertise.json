@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Laravel",
+    "id": "circles-laravel"
+  },
+  {
+    "name": "CakePHP",
+    "id": "circles-cakephp"
+  },
+  {
+    "name": "Laravel",
+    "id": "circles-vuejs"
+  },
+  {
+    "name": "NodeJS",
+    "id": "circles-nodejs"
+  },
+  {
+    "name": "Swift 2.0",
+    "id": "circles-swift"
+  },
+  {
+    "name": "WordPress",
+    "id": "circles-wordpress"
+  },
+  {
+    "name": "CSS / SASS / LESS",
+    "id": "circles-sass"
+  },
+  {
+    "name": "Twitter Bootstrap",
+    "id": "circles-bootstrap"
+  },
+  {
+    "name": "Scrapping",
+    "id": "circles-scrapping"
+  },
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Cafe Tawa",
+    "year": "2016",
+    "description": "One of the biggest social fun media sharing in Indonesia.",
+    "thumbnail": "portfolio/t_cafetawa.com.jpg",
+    "image": "portfolio/n_cafetawa.com.jpg",
+    "url": "https://cafetawa.com",
+    "client": {
+      "name": "Cafetawa",
+      "url": "https://cafetawa.com"
+    },
+    "skills": [
+      "vue.js",
+      "laravel",
+      "bootstrap 3",
+      "jquery"
+    ]
+  },
+  {
+    "title": "Twofold",
+    "year": "2015",
+    "description": "Discover great Skills with your friends!",
+    "thumbnail": "portfolio/t_twofold.asia.jpg",
+    "image": "portfolio/n_twofold.asia.jpg",
+    "url": "https://twofold.asia",
+    "client": {
+      "name": "RRE",
+      "url": "http://rre.xyz"
+    },
+    "skills": [
+      "javascript",
+      "jquery",
+      "wordpress",
+      "html5"
+    ]
+  },
+  {
+    "title": "RRE",
+    "year": "2012",
+    "description": "RRE website",
+    "thumbnail": "portfolio/t_rre.xyz.jpg",
+    "image": "portfolio/n_rre.xyz.jpg",
+    "url": "http://rre.xyz",
+    "client": {
+      "name": "RRE",
+      "url": "http://rre.xyz"
+    },
+    "skills": [
+      "javascript",
+      "jquery",
+      "wordpress",
+      "html5"
+    ]
+  },
+  {
+    "title": "Woomentum Crowdfunding",
+    "year": "2012",
+    "description": "The Crowdfunding",
+    "thumbnail": "portfolio/t_woomentum.fund.jpg",
+    "image": "portfolio/n_woomentum.fund.jpg",
+    "url": "http://woomentum.fund",
+    "client": {
+      "name": "RRE",
+      "url": "http://rre.xyz"
+    },
+    "skills": [
+      "wordpress",
+      "html",
+      "optimize"
+    ]
+  },
+  {
+    "title": "Tiket Villatours",
+    "year": "2012",
+    "description": "Online ticket reservation.",
+    "thumbnail": "portfolio/t_tiket.villatourstravel.com.jpg",
+    "image": "portfolio/n_tiket.villatourstravel.com.jpg",
+    "url": "http://tiket.villatourstravel.com",
+    "client": {
+      "name": "LuvTech",
+      "url": "http://luvtech.co.id/"
+    },
+    "skills": [
+      "javascript",
+      "jquery",
+      "laravel",
+      "html",
+      "bootstrap"
+    ]
+  },
+  {
+    "title": "Knowledge Match",
+    "year": "2013",
+    "description": "",
+    "thumbnail": "portfolio/t_knowledge-match.jpg",
+    "image": "portfolio/n_knowledge-match.jpg",
+    "url": "javascript: alert('He is dead, Jim.')",
+    "client": {
+      "name": "Knowledge Match",
+      "url": "#"
+    },
+    "skills": [
+      "html", "bootstrap"
+    ]
+  },
+  {
+    "title": "Rubu Rubu",
+    "year": "2012",
+    "description": "Rubu Rubu.",
+    "thumbnail": "portfolio/t_ruburubu.jpg",
+    "image": "portfolio/n_ruburubu.jpg",
+    "url": "javascript: alert('He is dead, Jim.')",
+    "client": {
+      "name": "RubuRubu",
+      "url": "#"
+    },
+    "skills": [
+      "javascript",
+      "jquery",
+      "html",
+      "flash", "svg",
+      "css3 animation", "parallax",
+      "single page"
+    ]
+  },
+  {
+    "title": "Best Retirement Destination",
+    "year": "2012",
+    "description": "The biggest and the best retirement destination list.",
+    "thumbnail": "portfolio/t_bestretirementdestinations.com.jpg",
+    "image": "portfolio/n_bestretirementdestinations.com.jpg",
+    "url": "http://bestretirementdestinations.com",
+    "client": {
+      "name": "e-ventures",
+      "url": "http://www.eventuresworldwide.com/"
+    },
+    "skills": [
+      "cakephp 1.1"
+    ]
+  },
+  {
+    "title": "Best Attorneys",
+    "year": "2012",
+    "description": "Best Attorneys Ranking",
+    "thumbnail": "portfolio/t_bestattorneysrankings.com.jpg",
+    "image": "portfolio/n_bestattorneysrankings.com.jpg",
+    "url": "http://bestattorneysrankings.com",
+    "client": {
+      "name": "e-ventures",
+      "url": "http://www.eventuresworldwide.com/"
+    },
+    "skills": [
+      "cakephp 1.1"
+    ]
+  }
+]
