@@ -1,5 +1,21 @@
 [
   {
+    "title": "Baby Elephant Hotel & Boutique",
+    "year": "2016",
+    "description": "A Tropical Mini-Resort in Siem Reap, Cambodia.<br><br>I am not theme designer on this project, but Ilana is. I just help to fix bugs, and work on 5 main tasks.",
+    "thumbnail": "portfolio/t_babyelephant.asia.jpg",
+    "image": "portfolio/n_babyelephant.asia.jpg",
+    "url": "http://www.babyelephant.asia/",
+    "client": {
+      "name": "Ilana Margaret",
+      "url": "https://www.upwork.com/jobs/~0120db942d78a3f40b"
+    },
+    "skills": [
+      "wordpress",
+      "zurb foundation"
+    ]
+  },
+  {
     "title": "Cafe Tawa",
     "year": "2016",
     "description": "One of the biggest social fun media sharing in Indonesia.",
